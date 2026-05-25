@@ -1,0 +1,6 @@
+{
+  "name": "Creative Studio Portfolio",
+  "description": "An award-winning, premium agency portfolio showcasing high-performance 3D visualizers, fluid typography, smooth-scrolling narratives, interactive particles, and sleek editorial structures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
